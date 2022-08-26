@@ -1,0 +1,10 @@
+build
+coverage
+e2e
+node_modules
+bin
+Controllers
+obj
+Pages
+Properties
+wwwroot
