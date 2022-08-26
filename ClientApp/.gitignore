@@ -10,7 +10,7 @@
 /node_modules
 
 #angular cache
-.angular
+/.angular
 
 # IDEs and editors
 /.idea
